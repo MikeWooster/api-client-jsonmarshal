@@ -1,0 +1,5 @@
+recursive-include apiclient_jsonmarshal *
+include VERSION
+
+recursive-exclude * __pycache__
+recursive-exclude * *.py[co]
